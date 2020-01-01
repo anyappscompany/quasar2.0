@@ -1,0 +1,9 @@
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\bin\Debug\quasar2.0.exe
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\bin\Debug\quasar2.0.pdb
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\quasar2._0.Form1.resources
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\quasar2._0.Properties.Resources.resources
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\quasar2.0.exe
+c:\users\maulder\documents\visual studio 10\Projects\quasar2.0\quasar2.0\obj\x86\Debug\quasar2.0.pdb
